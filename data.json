@@ -1,0 +1,180 @@
+{
+	"AHD-0425-PA-0007719_E-REPORTS_250427_2032@E.pdf_page_4.png": {
+		"is_success": true,
+		"data": [
+			{
+				"test_name": "C-Reactive Protein (CRP)",
+				"test_value": "267.8",
+				"bio_reference_range": "0-5",
+				"test_unit": "mg/L",
+				"lab_test_out_of_range": true
+			}
+		]
+	},
+
+
+	"AHD-0425-PA-0007719_E-REPORTS_250427_2032@E.pdf_page_7.png": {
+		"is_success": true,
+		"data": [
+			{
+				"test_name": "Haemoglobin",
+				"test_value": "9.1",
+				"bio_reference_range": "13.0-17.0",
+				"test_unit": "gm/dl",
+				"lab_test_out_of_range": true
+			},
+			{
+				"test_name": "Total R.B.C. Count",
+				"test_value": "3.19",
+				"bio_reference_range": "4.5-5.5",
+				"test_unit": "mill/cmm",
+				"lab_test_out_of_range": true
+			},
+			{
+				"test_name": "Haematocrit (PCV/HCT)",
+				"test_value": "27.20",
+				"bio_reference_range": "40-50",
+				"test_unit": "%",
+				"lab_test_out_of_range": true
+			},
+			{
+				"test_name": "Mean Corpuscular Volume (M.C.V.)",
+				"test_value": "85.3",
+				"bio_reference_range": "83-95",
+				"test_unit": "fl",
+				"lab_test_out_of_range": false
+			},
+			{
+				"test_name": "Mean Corpuscular Hb Conc (M.C.H.C.)",
+				"test_value": "33.5",
+				"bio_reference_range": "31.5-34.5",
+				"test_unit": "g/dl",
+				"lab_test_out_of_range": false
+			},
+			{
+				"test_name": "Red Cell Distribution Width (R.D.W.-CV)",
+				"test_value": "16.5",
+				"bio_reference_range": "11.6-14.6",
+				"test_unit": "%",
+				"lab_test_out_of_range": true
+			},
+			{
+				"test_name": "Total W.B.C. Count",
+				"test_value": "10560",
+				"bio_reference_range": "4000-10000",
+				"test_unit": "/ul",
+				"lab_test_out_of_range": true
+			}
+		]
+	},
+
+	"AHD-0425-PA-0008061_E-mahendrasinghdischargecard_250427_1114@E.pdf_page_13.png": {
+		"is_success": true,
+		"data": [
+			{
+				"test_name": "Haemoglobin",
+				"test_value": "11.6",
+				"bio_reference_range": "13-17",
+				"test_unit": "gm/dl",
+				"lab_test_out_of_range": true
+			},
+			{
+				"test_name": "Packed Cell Volume (HCT)",
+				"test_value": "45.2",
+				"bio_reference_range": "40-50",
+				"test_unit": "gm/dl",
+				"lab_test_out_of_range": false
+			},
+			{
+				"test_name": "R.B.C Count",
+				"test_value": "5.1",
+				"bio_reference_range": "4.5-5.5",
+				"test_unit": "mill/cmm",
+				"lab_test_out_of_range": false
+			},
+			{
+				"test_name": "Mean Cell Volume (MCV)",
+				"test_value": "88.6",
+				"bio_reference_range": "83-101",
+				"test_unit": "fl",
+				"lab_test_out_of_range": false
+			},
+			{
+				"test_name": "Mean Cell Haemoglobin (MCH)",
+				"test_value": "22.7",
+				"bio_reference_range": "27-33",
+				"test_unit": "pg",
+				"lab_test_out_of_range": true
+			},
+			{
+				"test_name": "Mean Cell Hb Conc (MCHC)",
+				"test_value": "25.7",
+				"bio_reference_range": "32-38",
+				"test_unit": "%",
+				"lab_test_out_of_range": true
+			},
+			{
+				"test_name": "Total W.B.C. Count",
+				"test_value": "9200",
+				"bio_reference_range": "4000-11000",
+				"test_unit": "cells/cumm",
+				"lab_test_out_of_range": false
+			}
+		]
+	},
+
+	"AHD-0425-PA-0008061_E-mahendrasinghdischargecard_250427_1114@E.pdf_page_27.png": {
+		"is_success": true,
+		"data": [
+			{
+				"test_name": "Haemoglobin",
+				"test_value": "12.1",
+				"bio_reference_range": "13-17",
+				"test_unit": "gm/dl",
+				"lab_test_out_of_range": true
+			},
+			{
+				"test_name": "Packed Cell Volume (HCT)",
+				"test_value": "42.5",
+				"bio_reference_range": "40-50",
+				"test_unit": "gm/dl",
+				"lab_test_out_of_range": false
+			},
+			{
+				"test_name": "R.B.C Count",
+				"test_value": "4.9",
+				"bio_reference_range": "4.5-5.5",
+				"test_unit": "mill/cmm",
+				"lab_test_out_of_range": false
+			},
+			{
+				"test_name": "Mean Cell Volume (MCV)",
+				"test_value": "86.7",
+				"bio_reference_range": "83-101",
+				"test_unit": "fl",
+				"lab_test_out_of_range": false
+			},
+			{
+				"test_name": "Mean Cell Haemoglobin (MCH)",
+				"test_value": "24.7",
+				"bio_reference_range": "27-33",
+				"test_unit": "pg",
+				"lab_test_out_of_range": true
+			},
+			{
+				"test_name": "Mean Cell Hb Conc (MCHC)",
+				"test_value": "28.5",
+				"bio_reference_range": "32-38",
+				"test_unit": "%",
+				"lab_test_out_of_range": true
+			},
+			{
+				"test_name": "Total W.B.C. Count",
+				"test_value": "13600",
+				"bio_reference_range": "4000-11000",
+				"test_unit": "cells/cumm",
+				"lab_test_out_of_range": false
+			}
+		]
+	}
+}
